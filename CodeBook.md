@@ -17,3 +17,15 @@ For each record in the dataset it is provided:
 - A 561-feature vector with time and frequency domain variables. 
 - Its activity label. 
 - An identifier of the subject who carried out the experiment.
+
+##Getting The Data
+- Download, unzip and get the list of the files. 
+- See README.txt for the detailed information of the data set.
+  *test/X_test.txt
+  *test/y_test.txt
+  *train/subject_train.txt
+  *train/X_train.txt
+  *train/y_train.txt
+
+##Reading The Data
+
