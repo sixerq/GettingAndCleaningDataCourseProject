@@ -49,7 +49,6 @@ For each record in the dataset it is provided:
 ##Step 4. Appropriately labels the data set with descriptive variable names
 - Label features using descriptive variable names
 
-##Step 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each
-activity and each subject
+##Step 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject
 - Independent tidy data set will be created with the average of each variable for each activity and each subject based on the data set in step 4.
 
