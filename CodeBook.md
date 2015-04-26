@@ -21,11 +21,11 @@ For each record in the dataset it is provided:
 ##Getting The Data
 - Download, unzip and get the list of the files. 
 - See README.txt for the detailed information of the data set.
-  *test/X_test.txt
-  *test/y_test.txt
-  *train/subject_train.txt
-  *train/X_train.txt
-  *train/y_train.txt
+ - test/X_test.txt
+ - test/y_test.txt
+ - train/subject_train.txt
+ - train/X_train.txt
+ - train/y_train.txt
 
 ##Reading The Data
 
