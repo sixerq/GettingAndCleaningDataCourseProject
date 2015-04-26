@@ -13,5 +13,14 @@ This repo contains run_analysis.R which does the following:
 4. Appropriately labels the data set with descriptive variable names. 
 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
 
+1. Item 1
+2. Item 2
+3. Item 3
+   * Item 3a
+   * Item 3b
+* Item 1
+* Item 2
+  * Item 2a
+  * Item 2b
 #The Code book
 CodeBook.md describes the variables, the data, and any transformations or work performed to clean up the data
