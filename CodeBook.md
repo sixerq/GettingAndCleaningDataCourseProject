@@ -28,4 +28,28 @@ For each record in the dataset it is provided:
  - train/y_train.txt
 
 ##Reading The Data
+**Activity**,**Subject** and **Features** are the descriptive variable names in the data frame
+-Read data from the files into the variables
+-Read the properties and structures of the variables
+
+##Step 1. Merges the training and the test sets to create one data set
+- Concatenate the data tables by rows
+- Set names to variables
+- Merge columns to get the data frame
+
+##Step 2. Extracts only the measurements on the mean and standard deviation for each measurement
+- Subset Name of Features by measurements on the mean and standard deviation
+- Subset the data frame by seleted names of Features
+- Check the structures of the data frame
+
+##Step 3. Uses descriptive activity names to name the activities in the data set
+- Read descriptive activity names from “activity_labels.txt”
+- Variable needs to be factored in the data frame
+
+##Step 4. Appropriately labels the data set with descriptive variable names
+- Label features using descriptive variable names
+
+##Step 5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each
+activity and each subject
+- Independent tidy data set will be created with the average of each variable for each activity and each subject based on the data set in step 4.
 
